@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio32Pro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Lenguages I work with
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+## Tecnologies I work with
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cs,mysql,java,hibernate,spring,git)](https://skillicons.dev)
 
 ## Contacts:
 
