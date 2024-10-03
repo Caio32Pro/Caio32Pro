@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Caio32Pro">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio32Pro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<hr>
+  
 <div>
   <a href="https://github.com/Caio32Pro">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio32Pro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
