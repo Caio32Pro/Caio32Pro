@@ -1,5 +1,5 @@
 ## Hi there
-## My name is Caio de Franco. Nice to meet y'all! 😺
+My name is Caio de Franco. Nice to meet y'all! 😺
 
 <!--
 **Caio32Pro/Caio32Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
