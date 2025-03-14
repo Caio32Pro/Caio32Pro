@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/Caio32Pro">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio32Pro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio32Pro&layout=compact&theme=dracula"/>
+  </div>
 
 ## Tecnologies I work with
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cs,mysql,java,hibernate,spring,git)](https://skillicons.dev)
